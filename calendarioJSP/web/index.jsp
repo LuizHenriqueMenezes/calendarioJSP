@@ -1,8 +1,4 @@
-<%-- 
-    Documento: calendario
-    Criado em: 17 de set. de 2023, 10:35:11
-    Autor: lmene
---%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <%@page import="java.util.Calendar, java.text.SimpleDateFormat, java.util.Locale"%>
